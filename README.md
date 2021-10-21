@@ -7,7 +7,7 @@ Repository of the UE Imaging Biological Systems - qbio master curriculum - Unive
 
 [EM = Emmanuel Margeat ; LCo = Luca Costa ; ALG : Antoine Legall]
 
-#### THEORITICAL PART
+#### THEORETICAL PART
 
 | Date            | Day  |   #hours | Starting Time | Subject                                                      | Where |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- |
