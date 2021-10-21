@@ -11,6 +11,6 @@ Repository of the UE Imaging Biological Systems - qbio master curriculum - Unive
 
 | Date            | Day  |   #hours | Starting Time | Subject                                                      | Where |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- |
-| 22 October      | Fri  |      1   | 2:00-3:00     | Pysics, Eletronics, ... (LCo)                                | CBS   |
-| 22 October      | Fri  |      1   | 3:00-4:00     | n&B and smFREt (EM)                                          | CBS   |
+| 22 October      | Fri  |      1   | 2:00-3:00     | Physics, Electronics, ... (LCo)                              | CBS   |
+| 22 October      | Fri  |      1   | 3:00-4:00     | N&B and smFRET (EM)                                          | CBS   |
 | 26 October      | Tue  |      2   | 9:00-11:00    | (ALG)                                                        | CBS   |
