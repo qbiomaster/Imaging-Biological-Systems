@@ -73,7 +73,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 [readme](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf)
 
-* CM 1h : [Laser safety](/Intro_Laser_safety/Laser safety class.pdf) + optics handling + objective nomenclature + good practices
+* CM 1h : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) + optics handling + objective nomenclature + good practices
 * TP 4h (3 groups) : 
   * Good practices = how to align a laser, lens, iris, targets, etc...
   * Set up a telescope (Keplerian vs Galilean telescope)
