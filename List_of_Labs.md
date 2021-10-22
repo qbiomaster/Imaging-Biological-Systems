@@ -38,18 +38,19 @@ PEM : Pierre-Emmanuel Milhiet
 | ------------ |----| ------ | ------- | ----------- |
 | 14/10/21 |11:00-12:00| Intro & Laser safety| CBS | CD,ALG,CC |
 | 20/10/21 |09:00-13:00| TP : Optics basics| CBS | ALG |
-| 22/10/21 |14:00-16:00| CM : Theory| CBS | ? |
-| 26/10/21 |09:00-11:00| CM : Theory| CBS | ? |
+| 22/10/21 |14:00-15:00| CM : Physics, Electronics, ... | CBS | LC        |
+| 22/10/21 |15:00-16:00| CM : N&B and smFRET | CBS | EM        |
+| 26/10/21 |09:00-11:00| TD : Optics basics tutorials| CBS | ALG |
 
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Teachers|
 | ------------ |----| ------ | ------- | ----------- |
-| 29/10/21 |14:00-16:00| TD : Intro to building your setyp| CBS | ALG, EM, LC |
+| 29/10/21 |14:00-16:00| TD : Intro to building your setup| CBS | ALG, EM, LC |
 | 10/11/21 |14:00-16:00| TD : Troubleshooting| CBS | ALG, EM, LC  |
 | 17/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
 | 18/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
 | 19/11/21 |14:00-16:00| TP : Building your setup-acquisition| CBS | ALG, EM, LC  |
-| ? |14:00-16:00| Oral restitutions #1| CBS | ALG, EM, LC, CD  |
+| 03/12/21 |09:00-11:00| Oral restitutions #1| CBS | ALG, EM, LC, CD  |
 
 ### Section #3-Practicals
 | Date | Schedule | Subject | Location | Teachers|
