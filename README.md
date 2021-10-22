@@ -155,11 +155,3 @@ PEM : Pierre-Emmanuel Milhiet
 
 * Oral restitution + written report
 
-
-| TP | Experiment | Analysis tools |
-| ---- | ------ | ------- |
-| STORM | NPC | Reconstruction with Thunderstorm |
-| N&B | strains UE SynBio + Rho | Patrack |
-|  smFRET     |     mGluR                    |   ?  |
-|    AFM+FLIM   |           ?              |       ?                           |
-|       |                         |                                  |
