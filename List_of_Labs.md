@@ -71,7 +71,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 ### I. Basics - 9h
 
-[readme](readme.md)
+[readme](README.md)
 
 * CM 1h : [Laser safety](/Intro_Laser_safety/Laser safety class.pdf) + optics handling + objective nomenclature + good practices
 * TP 4h (3 groups) : 
