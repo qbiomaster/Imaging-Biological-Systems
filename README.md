@@ -42,21 +42,21 @@ PEM : Pierre-Emmanuel Milhiet
 | ------------ |----| ------ | ------- | ----------- |
 | 14/10/21 |11:00-12:00| [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | CBS | CD,ALG,CC |
 | 20/10/21 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | CBS | ALG |
-| 22/10/21 |14:00-15:00| CM : Physics, Electronics, ... | CBS | LC        |
+| 22/10/21 |14:00-15:00| CM : Physics, [Electronics](Electronics/qbio_UE_introduction_electronics.pdf), ... | CBS | LC        |
 | 22/10/21 |15:00-16:00| CM : [N&B](Number_and_brigthness/Number_and_brigthness.pdf) and [smFRET](smFRET/smFRET.pdf) | CBS | EM        |
 | 26/10/21 |09:00-11:00| TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | CBS | ALG |
 
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 29/10/21 |14:00-16:00| TD : Intro to building your setup| CBS | ALG, EM, LC |
+| 29/10/21 |14:00-16:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | CBS | ALG, EM, LC |
 | 10/11/21 |14:00-16:00| TD : Troubleshooting| CBS | ALG, EM, LC  |
-| 17/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
-| 18/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
-| 19/11/21 |14:00-16:00| TP : Building your setup-acquisition| CBS | ALG, EM, LC  |
+| 17/11/21 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | CBS | ALG, EM, LC  |
+| 18/11/21 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | CBS | ALG, EM, LC  |
+| 19/11/21 |14:00-16:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | CBS | ALG, EM, LC  |
 | 03/12/21 |09:00-11:00| Oral restitutions #1| CBS | ALG, EM, LC, CD  |
 
-### Section #3-Practicals
+### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
 | 02/12/21 |09:00-11:00| TD : Check exp design| CBS | JBF/CD/ALG, CC/EM, RQ/EM, LC/CG  |
@@ -72,7 +72,7 @@ PEM : Pierre-Emmanuel Milhiet
 ### I. Basics - 9h
 
 * CM 1h : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) + optics handling + objective nomenclature + good practices
-* TP 4h (3 groups) : 
+* TP 4h (3 groups) : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf)
   * Good practices = how to align a laser, lens, iris, targets, etc...
   * Set up a telescope (Keplerian vs Galilean telescope)
   * Measure a laser beam waist and divergence
@@ -84,18 +84,17 @@ PEM : Pierre-Emmanuel Milhiet
 * CM : 4h
 
   * Piezoelectric
-  * Electronic
+  *  [Electronics](Electronics/qbio_UE_introduction_electronics.pdf)
+  * [N&B](Number_and_brigthness/Number_and_brigthness.pdf) 
+  * [smFRET](smFRET/smFRET.pdf)
 
-  * smFRET
-  * N&B
-
-### II. Build a setup - 14h
+### II. [Building your setup](Build_your_setup/Build_your_setup.pdf) - 14h
 
 | Setup | Experiments | Instructors | Comments |
 | ----- | ----------- | -------- | ----------- |
-| TIRF build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane in Epi vs TIRF | Antoine |             |
-| Confocal build+calibrate | Characterize concentration of free dyes in solution | Manu ||
-| AFM build+calibrate | Image lipid bilayers? Cell membrane | Luca ||
+| TIRF build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane in Epi vs TIRF | ALG |             |
+| Confocal build+calibrate | Characterize concentration of free dyes in solution | EM ||
+| AFM build+calibrate | Image lipid bilayers? Cell membrane | LC ||
 
 * TD 2h Introduction 
 
@@ -127,7 +126,7 @@ PEM : Pierre-Emmanuel Milhiet
 * Oral restitution + written report + demo other groups (4h)
 => the goal is to have all the groups being familiarized with all setups (to start preparing the second session of TPs). The binome who built the setup will explain and guide the others to use their setup and run an acquisition.
 
-### III. Practicals - 14h
+### III. [Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf) - 14h
 
 
 
