@@ -1,5 +1,9 @@
 # List of Labs for UE Imaging Biological Systems
 
+Repository of the UE Imaging Biological Systems - qbio master curriculum - University of Montpellier
+
+
+
 [TOC]
 
 ## OVERVIEW
@@ -19,8 +23,8 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | III. Practicals | 5h TD + ~2x5h TP = **15 hours** |      |         | SMLM/FCS/AFM |
 
 
-## Tentative timetable
-**Teachers**:
+## Timetable
+**Instructors**:
 ALG : Antoine Le Gall
 CC : Caroline Clerté
 CD : Christine Doucet
@@ -34,7 +38,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 
 ### Section #1-Basics
-| Date | Schedule | Subject | Location | Teachers|
+| Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
 | 14/10/21 |11:00-12:00| Intro & Laser safety| CBS | CD,ALG,CC |
 | 20/10/21 |09:00-13:00| TP : Optics basics| CBS | ALG |
@@ -43,7 +47,7 @@ PEM : Pierre-Emmanuel Milhiet
 | 26/10/21 |09:00-11:00| TD : Optics basics tutorials| CBS | ALG |
 
 ### Section #2-Build a setup
-| Date | Schedule | Subject | Location | Teachers|
+| Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
 | 29/10/21 |14:00-16:00| TD : Intro to building your setup| CBS | ALG, EM, LC |
 | 10/11/21 |14:00-16:00| TD : Troubleshooting| CBS | ALG, EM, LC  |
@@ -53,7 +57,7 @@ PEM : Pierre-Emmanuel Milhiet
 | 03/12/21 |09:00-11:00| Oral restitutions #1| CBS | ALG, EM, LC, CD  |
 
 ### Section #3-Practicals
-| Date | Schedule | Subject | Location | Teachers|
+| Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
 | 02/12/21 |09:00-11:00| TD : Check exp design| CBS | JBF/CD/ALG, CC/EM, RQ/EM, LC/CG  |
 | 07/12/21 |10:00-12:00| TP : Sample preparation| CBS | JBF/CD/ALG, CC/EM, RQ/EM, LC/CG  |
@@ -67,7 +71,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 ### I. Basics - 9h
 
-* CM 1h : [Laser safety](./Intro_Laser_safety/Laser safety class.pdf) + optics handling + objective nomenclature + good practices
+* CM 1h : [Laser safety](/Intro_Laser_safety/Laser safety class.pdf) + optics handling + objective nomenclature + good practices
 * TP 4h (3 groups) : 
   * Good practices = how to align a laser, lens, iris, targets, etc...
   * Set up a telescope (Keplerian vs Galilean telescope)
@@ -87,7 +91,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 ### II. Build a setup - 14h
 
-| Setup | Experiments | Teachers | Comments |
+| Setup | Experiments | Instructors | Comments |
 | ----- | ----------- | -------- | ----------- |
 | TIRF build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane in Epi vs TIRF | Antoine |             |
 | Confocal build+calibrate | Characterize concentration of free dyes in solution | Manu ||
@@ -127,7 +131,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 
 
-| Technique | Sample Preparation | Experiment | Teacher |
+| Technique | Sample Preparation | Experiment | Instructors |
 | ---- | ------ | ------- | ----------- |
 |  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution | JBF/CD(/ALG?) |
 |  FCS-N&B    | Dyes solution, bacteria samples | volume and diffusion time characterization, oligomerization state | CC |
