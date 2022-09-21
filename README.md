@@ -1,4 +1,4 @@
-# List of Labs for UE Imaging Biological Systems
+# List of Labs for UE Imaging Biological Systems 2022-2023
 
 Repository of the UE Imaging Biological Systems - qbio master curriculum - University of Montpellier
 
