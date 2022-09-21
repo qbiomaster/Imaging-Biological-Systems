@@ -1,4 +1,4 @@
-# List of Labs for UE Imaging Biological Systems 2022-2023
+# UE Imaging Biological Systems 2022-2023
 
 Repository of the UE Imaging Biological Systems - qbio master curriculum - University of Montpellier
 
@@ -23,7 +23,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | III. Practicals | 5h TD + ~2x5h TP = **15 hours** | Written report + oral restitution |         | SMLM/FCS/AFM |
 
 
-## Timetable
+## Organization
 **Instructors**:
 ALG : Antoine Le Gall
 CC : Caroline Clerté
@@ -48,6 +48,11 @@ PEM : Pierre-Emmanuel Milhiet
 | 19/10/22 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | qBio | ALG      |
 | 25/10/22 |09:45-13:00| TP : BioImaging | CBS | EM |
 
+**<u>Homeworks</u>**: 
+
+* Prepare the TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) BEFORE the session!
+* For the rest : None! Just come as you are :-). For the practicals of [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) you might want to define binomes (+1 trinome if you are an odd number) before the session.
+
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
@@ -58,6 +63,19 @@ PEM : Pierre-Emmanuel Milhiet
 | 23/11/22 |14:00-16:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio/Confocal/AFM | ALG, EM, LC  |
 | 02/12/21 |14:00-17:00| Oral restitutions #1| Conference room | ALG, EM, LC, CD  |
 
+**<u>Homeworks</u>**: 
+
+* Pick the setup you want to build among the [three setups](Build_your_setup/Build_your_setup.pdf) (2 students per setup for the confocal and AFM and 3 students for the TIRF)
+* During the "TD : Intro to [building your setup"](Build_your_setup/Build_your_setup.pdf) you will design the setup with the teacher, however it is best that you think about the design before the session.
+* During the "TD : Troubleshooting" you will validate the last details of the design. You should have a well thought design BEFORE the session.
+* During the TP you will take notes and acquire data that you may need to process/analyse for the written report and the oral restitutions.
+* Written report guidelines:
+  * Max nb of pages:
+  * 
+* Oral restitutions guidelines:
+  * 10 minutes of presentation by each binome/trinome
+  * 10 minutes of questions by the students and teachers.
+
 ### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
@@ -67,50 +85,15 @@ PEM : Pierre-Emmanuel Milhiet
 | 09/12/22 |10:00-12:00| TP : Sample preparation| CBS | JBF/CD, CC, RQ/LB, RD/CG |
 | 09/12/22 |13:00-17:00| TP : Acquisition #2| CBS | JBF/CD, CC, RQ/LB, RD/CG |
 | 06/01/23 |14:00-17:00| Oral restitutions #2| Conference room | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
-## List of all Labs 
+
+Homeworks:
 
 
-
-### I. Basics - 9h
-
-* CM 1h : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) + optics handling + objective nomenclature + good practices
-* TP 4h (3 groups) : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf)
-  * Optics alignment
-  * Diffraction and polarisation
-  * Spectroscopy
-
-* CM : 4h
-  * [Electronics](Electronics/qbio_UE_introduction_electronics.pdf)
-  * [N&B](Number_and_brigthness/Number_and_brigthness.pdf) 
-  * [smFRET](smFRET/smFRET.pdf)
-
-### II. [Building your setup](Build_your_setup/Build_your_setup.pdf) - 14h
-
-| Setup | Experiments | Instructors | Comments |
-| ----- | ----------- | -------- | ----------- |
-| TIRF build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane in Epi vs TIRF | ALG |             |
-| Confocal build+calibrate | Characterize concentration of free dyes in solution | EM ||
-| AFM build+calibrate | Image lipid bilayers? Cell membrane | LC ||
 
 * --> homework : prepare restitution ~4h
 
 * Oral restitution + written report + demo other groups (4h)
 => the goal is to have all the groups being familiarized with all setups (to start preparing the second session of TPs). The binome who built the setup will explain and guide the others to use their setup and run an acquisition.
 
-### III. [Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf) - 14h
-
-
-
-| Technique | Sample Preparation | Experiment | Instructors |
-| ---- | ------ | ------- | ----------- |
-|  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution | JBF/CD(/ALG?) |
-|  FCS-N&B    | Dyes solution, bacteria samples | volume and diffusion time characterization, oligomerization state | CC |
-| TIRF-FRET          | GPCR mGluR purif and labeling| Conformation dynamics | RQ, EM|
-|  AFM-FLIM  | Lipid bilayers with bodipy labeling | Topography, force measurements, life time measurements | CG/PEM |
-
 * 
-
-* Data analysis + report preparation
-
-* Oral restitution + written report
 
