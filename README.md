@@ -88,7 +88,7 @@ PEM : Pierre-Emmanuel Milhiet
 | 09/12/22 |13:00-17:00| TP : Acquisition #2| CBS | JBF/CD, CC, RQ/LB, RD/CG |
 | 06/01/23 |14:00-17:00| Oral restitutions #2| Conference room | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
 
-Homeworks:
+**<u>Homeworks</u>**:
 
 
 
