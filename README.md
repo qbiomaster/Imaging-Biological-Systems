@@ -66,15 +66,17 @@ PEM : Pierre-Emmanuel Milhiet
 **<u>Homeworks</u>**: 
 
 * Pick the setup you want to build among the [three setups](Build_your_setup/Build_your_setup.pdf) (2 students per setup for the confocal and AFM and 3 students for the TIRF)
-* During the "TD : Intro to [building your setup"](Build_your_setup/Build_your_setup.pdf) you will design the setup with the teacher, however it is best that you think about the design before the session.
+* During the "TD : Intro to [building your setup"](Build_your_setup/Build_your_setup.pdf) you will design the setup with the teacher, however it is highly recommended that you think about the design before the session.
 * During the "TD : Troubleshooting" you will validate the last details of the design. You should have a well thought design BEFORE the session.
 * During the TP you will take notes and acquire data that you may need to process/analyse for the written report and the oral restitutions.
+* During the last practical session of 23/11/22 each group will present their setup (explain and guide the others to use their setup and run an acquisition) and give a demo to other students. Students will be encouraged to ask questions.
 * Written report guidelines:
-  * Max nb of pages:
-  * 
+  * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, conclusion + discussion
+  * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
+  * Written report restitution deadline : **==30/11/2022==**
 * Oral restitutions guidelines:
-  * 10 minutes of presentation by each binome/trinome
-  * 10 minutes of questions by the students and teachers.
+  * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
+  * 20 minutes of questions by the students and teachers.
 
 ### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 | Date | Schedule | Subject | Location | Instructors|
@@ -90,10 +92,11 @@ Homeworks:
 
 
 
-* --> homework : prepare restitution ~4h
+* Written report guidelines:
+  * Students will prepare a written report in the format of a scientific articles emphasizing the methodology and assuming it is an original technique unknown from the community.
+  * Written report restitution deadline : **==03/01/2023==**
 
-* Oral restitution + written report + demo other groups (4h)
-=> the goal is to have all the groups being familiarized with all setups (to start preparing the second session of TPs). The binome who built the setup will explain and guide the others to use their setup and run an acquisition.
-
-* 
+* Oral restitutions guidelines:
+  * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
+  * 20 minutes of questions by the students and teachers.
 
