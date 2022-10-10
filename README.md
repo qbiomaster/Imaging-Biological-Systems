@@ -77,6 +77,7 @@ PEM : Pierre-Emmanuel Milhiet
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
+  * Oral restitution  : **==30/11/2022==**
 
 ### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 | Date | Schedule | Subject | Location | Instructors|
@@ -92,9 +93,10 @@ PEM : Pierre-Emmanuel Milhiet
 
 * Written report guidelines:
   * Students will prepare a written report in the format of a scientific articles emphasizing the methodology and assuming it is an original technique unknown from the community.
-  * Written report restitution deadline : **==03/01/2023==**
+  * Written report restitution deadline : **==02/01/2023==**
 
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
+  * Oral restitution  : **==05/01/2023==**
 
