@@ -58,10 +58,10 @@ PEM : Pierre-Emmanuel Milhiet
 | ------------ |----| ------ | ------- | ----------- |
 | 26/10/22 |14:00-16:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow/Conference room/Meeting room | ALG, EM, LC |
 | 09/11/22 |14:00-16:00| TD : Troubleshooting| qBio/Confocal/AFM | ALG, EM, LC  |
-| 18/11/22 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
-| 22/11/22 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
-| 23/11/22 |14:00-16:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio/Confocal/AFM | ALG, EM, LC  |
-| 02/12/21 |14:00-17:00| Oral restitutions #1| Conference room | ALG, EM, LC, CD  |
+| 18/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
+| 22/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
+| 23/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio/Confocal/AFM | ALG, EM, LC  |
+| 30/11/22 |14:00-17:00| Oral restitutions #1| Conference room | ALG, EM, LC, CD  |
 
 **<u>Homeworks</u>**: 
 
@@ -73,7 +73,7 @@ PEM : Pierre-Emmanuel Milhiet
 * Written report guidelines:
   * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, conclusion + discussion
   * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
-  * Written report restitution deadline : **==30/11/2022==**
+  * Written report restitution deadline : **==28/11/2022==**
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
@@ -81,12 +81,10 @@ PEM : Pierre-Emmanuel Milhiet
 ### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 06/12/22 |14:00-16:00| TD : Check exp design| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 08/12/22 |10:00-12:00| TP : Sample preparation| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 08/12/22 |13:00-17:00| TP : Acquisition #1| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 09/12/22 |10:00-12:00| TP : Sample preparation| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 09/12/22 |13:00-17:00| TP : Acquisition #2| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 06/01/23 |14:00-17:00| Oral restitutions #2| Conference room | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
+| 29/11/22 |14:00-16:00| TD : Check exp design| CBS | JBF/CD, CC, RQ/LB, RD/CG |
+| 01/12/22 |10:00-17:00| TP : Sample preparation + Acquisition #1 | CBS | JBF/CD, CC, RQ/LB, RD/CG |
+| 02/12/22 |10:00-17:00| TP : Sample preparation + Acquisition #2 | CBS | JBF/CD, CC, RQ/LB, RD/CG |
+| 05/01/23 |14:00-17:00| Oral restitutions #2| Conference room | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
 
 **<u>Homeworks</u>**:
 
