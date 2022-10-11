@@ -8,6 +8,8 @@ Repository of the UE Imaging Biological Systems - qbio master curriculum - Unive
 
 ## OVERVIEW
 
+See [here](UE_short_overview/Intro_BioImaging_2022.pptx.pdf) for the slides introducing the UE.
+
 The UE Imaging Biological Systems is organized around three sections with increasing levels of complexity:
 
 ​	In section I. the students will be taught the good practices when handling potentially hazardous or fragile instruments and will learn how to align optics and characterize them. 
@@ -25,6 +27,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 ## Organization
 **Instructors**:
+![](Instructors_trombinoscope/Intro_BioImaging_2022.pptx.png)
 ALG : Antoine Le Gall
 CC : Caroline Clerté
 CD : Christine Doucet
@@ -36,6 +39,7 @@ LC : Luca Costa
 RD : Rémi Doré
 RQ : Robert Quast
 PEM : Pierre-Emmanuel Milhiet
+
 
 
 
