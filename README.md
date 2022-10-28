@@ -24,8 +24,24 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | II. Build a setup | 4h TD + 12h TP = **16 hours** | Written report + oral restitution |         | TIRF/Confocal/AFM |
 | III. Practicals | 5h TD + ~2x5h TP = **15 hours** | Written report + oral restitution |         | SMLM/FCS/AFM |
 
+## Ressources
+
+Here are some ressources that may be useful for the praticals of this UE:
+
+- [Basics in optical microscopy](Ressources/Optics basics/20210128 - Basics in optical microscopy - 3h - M1.pdf) 
+- [Dye labeling](Ressources/Dye labeling/Cours imaging  _ Introduction to dyes and labeling _ Margeat.pdf)  
+- [Basics in electronics](Ressources/Electronics/qbio_UE_introduction_electronics.pdf) 
+- [Basics in AFM](Ressources/AFM/qbio_UE_introduction_AFM.pdf) 
+- [Single Particle Tracking](Ressources/Tracking/20201202 - Microscopies avancées - Single Particle Tracking - 2h - M2 - v0.pdf) 
+- Super resolution microscopy - [SMLM](Ressources/Super resolution methods/20201021 - Super resolution microscopy - part1 - 3h - M2.pdf), [SIM](Ressources/Super resolution methods/20181014 - Super resolution microscopy - part3 - 3h - M2.pdf)  and [STED](Ressources/Super resolution methods/20181014 - Super resolution microscopy - part2 - 3h - M2.pdf) 
+- [FRET](Ressources/smFRET/Cours Single molecule FRET _ margeat.pdf) 
+- [Fluorescence fluctuations](Ressources/Fluorescence fluctuations/Cours Fluctuation microscopies _ margeat.pdf)
+- [N&B](Ressources/Fluorescence fluctuations/Number_and_brigthness.pdf)  
+
+
 
 ## Organization
+
 **Instructors**:
 ![](Instructors_trombinoscope/Intro_BioImaging_2022.pptx.png)
 ALG : Antoine Le Gall
@@ -103,16 +119,4 @@ PEM : Pierre-Emmanuel Milhiet
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
   * Oral restitution  : **==05/01/2023==**
-
-### Ressources
-
-Here are some ressources that may be useful for the praticals of this UE:
-
-- [Basics in optical microscopy](Ressources/20210128 - Basics in optical microscopy - 3h - M1.pdf) 
-- [Basics in electronics](Ressources/qbio_UE_introduction_electronics.pdf) 
-- [Basics in AFM](Ressources/qbio_UE_introduction_AFM.pdf) 
-- [Single Particle Tracking](Ressources/20201202 - Microscopies avancées - Single Particle Tracking - 2h - M2 - v0.pdf) 
-- [Super resolution microscopy - SMLM](Ressources/20201021 - Super resolution microscopy - part1 - 3h - M2.pdf) 
-- [Super resolution microscopy - SIM](Ressources/20181014 - Super resolution microscopy - part3 - 3h - M2 .pdf) 
-- [Super resolution microscopy - STED](Ressources/20181014 - Super resolution microscopy - part2 - 3h - M2 .pdf) 
 
