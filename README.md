@@ -29,13 +29,13 @@ The UE Imaging Biological Systems is organized around three sections with increa
 Here are some ressources that may be useful for the praticals of this UE:
 
 - [Basics in optical microscopy](Ressources/Optics_basics/20210128_Basics_in_optical_microscopy_M1.pdf) 
-- [Dye labeling](Ressources/Dye_labeling/Cours imaging  _ Introduction to dyes and labeling _ Margeat.pdf)  
+- [Dye labeling](Ressources/Dye_labeling/Cours_imaging_Introduction_to_dyes_and_labeling_Margeat.pdf)  
 - [Basics in electronics](Ressources/Electronics/qbio_UE_introduction_electronics.pdf) 
 - [Basics in AFM](Ressources/AFM/qbio_UE_introduction_AFM.pdf) 
-- [Single Particle Tracking](Ressources/Tracking/20201202 - Microscopies avancées - Single Particle Tracking - 2h - M2 - v0.pdf) 
-- Super resolution microscopy - [SMLM](Ressources/Super_resolution_methods/20201021 - Super resolution microscopy - part1 - 3h - M2.pdf), [SIM](Ressources/Super_resolution_methods/20181014 - Super resolution microscopy - part3 - 3h - M2.pdf)  and [STED](Ressources/Super_resolution_methods/20181014 - Super resolution microscopy - part2 - 3h - M2.pdf) 
-- [FRET](Ressources/smFRET/Cours Single molecule FRET _ margeat.pdf) 
-- [Fluorescence fluctuations](Ressources/Fluorescence_fluctuations/Cours Fluctuation microscopies _ margeat.pdf)
+- [Single Particle Tracking](Ressources/Tracking/20201202_Microscopies_avancées_Single_Particle_Tracking.pdf) 
+- Super resolution microscopy - [SMLM](Ressources/Super_resolution_methods/20201021_part1.pdf), [SIM](Ressources/Super_resolution_methods/20181014_part3.pdf)  and [STED](Ressources/Super_resolution_methods/20181014_part2.pdf) 
+- [FRET](Ressources/smFRET/Cours_Single_molecule_FRET_margeat.pdf) 
+- [Fluorescence fluctuations](Ressources/Fluorescence_fluctuations/Cours_Fluctuation_microscopies_margeat.pdf)
 - [N&B](Ressources/Fluorescence_fluctuations/Number_and_brigthness.pdf)  
 
 
