@@ -70,7 +70,7 @@ PEM : Pierre-Emmanuel Milhiet
 **<u>Homeworks</u>**: 
 
 * Pick the setup you want to build among the [three setups](Build_your_setup/Build_your_setup.pdf) (2 students per setup for the confocal and AFM and 3 students for the TIRF)
-* During the "TD : Intro to [building your setup"](Build_your_setup/Build_your_setup.pdf) you will design the setup with the teacher, however it is highly recommended that you think about the design before the session.
+* During the "TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf)'' you will design the setup with the teacher, however it is highly recommended that you think about the design before the session.
 * During the "TD : Troubleshooting" you will validate the last details of the design. You should have a well thought design BEFORE the session.
 * During the TP you will take notes and acquire data that you may need to process/analyse for the written report and the oral restitutions.
 * During the last practical session of 23/11/22 each group will present their setup (explain and guide the others to use their setup and run an acquisition) and give a demo to other students. Students will be encouraged to ask questions.
@@ -109,4 +109,10 @@ PEM : Pierre-Emmanuel Milhiet
 Here are some ressources that may be useful for the praticals of this UE:
 
 - [Basics in optical microscopy](Ressources/20210128 - Basics in optical microscopy - 3h - M1.pdf) 
+- [Basics in electronics](Ressources/qbio_UE_introduction_electronics.pdf) 
+- [Basics in AFM](Ressources/qbio_UE_introduction_AFM.pdf) 
+- [Single Particle Tracking](Ressources/20201202 - Microscopies avancées - Single Particle Tracking - 2h - M2 - v0.pdf) 
+- [Super resolution microscopy - SMLM](Ressources/20201021 - Super resolution microscopy - part1 - 3h - M2.pdf) 
+- [Super resolution microscopy - SIM](Ressources/20181014 - Super resolution microscopy - part3 - 3h - M2 .pdf) 
+- [Super resolution microscopy - STED](Ressources/20181014 - Super resolution microscopy - part2 - 3h - M2 .pdf) 
 
