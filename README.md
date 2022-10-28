@@ -104,3 +104,9 @@ PEM : Pierre-Emmanuel Milhiet
   * 20 minutes of questions by the students and teachers.
   * Oral restitution  : **==05/01/2023==**
 
+### Ressources
+
+Here are some ressources that may be useful for the praticals of this UE:
+
+- [Basics in optical microscopy](Ressources/20210128 - Basics in optical microscopy - 3h - M1.pdf) 
+
