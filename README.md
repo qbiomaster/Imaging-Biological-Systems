@@ -99,7 +99,10 @@ PEM : Pierre-Emmanuel Milhiet
   * 20 minutes of questions by the students and teachers.
   * Oral restitution  : **==30/11/2022==**
 
-### Section #3-[Practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
+### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
+
+Students will choose a technique among AFM/Airyscan/FCS/FRET to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. Ressources for the respective practicals may be found [HERE](Practicals_Advanced_microscopy/).
+
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
 | 29/11/22 |14:00-16:00| TD : Check exp design| CBS | JBF/CD, CC, RQ/LB, RD/CG |
