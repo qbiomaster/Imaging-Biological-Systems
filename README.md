@@ -78,10 +78,10 @@ PEM : Pierre-Emmanuel Milhiet
 | ------------ |----| ------ | ------- | ----------- |
 | 26/10/22 |14:00-16:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow/Conference room/Meeting room | ALG, EM, LC |
 | 09/11/22 |14:00-16:00| TD : Troubleshooting| qBio/Confocal/AFM | ALG, EM, LC  |
-| 18/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
-| 22/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
-| 23/11/22 |14:00-17:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio/Confocal/AFM | ALG, EM, LC  |
-| 30/11/22 |14:00-17:00| Oral restitutions #1| Conference room | ALG, EM, LC, CD  |
+| 18/11/22 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
+| 22/11/22 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio/Confocal/AFM | ALG, EM, LC  |
+| 23/11/22 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio/Confocal/AFM | ALG, EM, LC  |
+| 30/11/22 |14:00-18:00| Oral restitutions #1| Conference room | ALG, EM, LC, CD  |
 
 **<u>Homeworks</u>**: 
 
