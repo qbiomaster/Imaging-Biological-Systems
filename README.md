@@ -102,7 +102,7 @@ PEM : Pierre-Emmanuel Milhiet
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 
-Students will choose a technique among AFM/Airyscan/FCS/FRET to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. Ressources for the respective practicals may be found [HERE](Practicals_Advanced_microscopy/).
+Students will choose a technique among AFM and super-resolution microscopy to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. 
 
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
@@ -117,7 +117,7 @@ Students will choose a technique among AFM/Airyscan/FCS/FRET to run experiments.
 
 
 * Written report guidelines:
-  * Students will prepare a written report in the format of a scientific articles emphasizing the methodology and assuming it is an original technique unknown from the community.
+  * Students will prepare a written report in the format of a scientific article emphasizing the methodology and assuming it is an original technique unknown from the community.
   * Written report restitution deadline : **==TBD==**
 
 * Oral restitutions guidelines:
