@@ -62,8 +62,8 @@ PEM : Pierre-Emmanuel Milhiet
 ### Section #1-Basics
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 06/10/23 | 14:00-16:00 | CM : [FCS](Ressources/Fluorescence_fluctuations/Cours_Fluctuation_microscopies_margeat.pdf) and [smFRET](Ressources/smFRET/Cours_Single_molecule_FRET_margeat.pdf), [Electronics](Electronics/qbio_UE_introduction_electronics.pdf), ... |Bungalow 16p |EM, LC |
-| 06/10/23  |16:00-17:00| CM : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC |
+| 06/10/23 | 14:00-16:00 | CM : [FCS](Ressources/Fluorescence_fluctuations/Cours_Fluctuation_microscopies_margeat.pdf) and [smFRET](Ressources/smFRET/Cours_Single_molecule_FRET_margeat.pdf), [Electronics](Ressources/Electronics/qbio_UE_introduction_electronics.pdf), ... |Bungalow 16p |EM, LC |
+| 06/10/23  |16:00-17:00| CM : [Laser safety](Ressources/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC |
 | 10/10/23 | 09:00-11:00 | TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | Bungalow 16p | ALG |
 | 18/10/23 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | qBio | ALG      |
 
