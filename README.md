@@ -62,10 +62,10 @@ PEM : Pierre-Emmanuel Milhiet
 ### Section #1-Basics
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 06/10/24 | 14:00-16:00 | CM : [N&B](Number_and_brigthness/Number_and_brigthness.pdf) and [smFRET](smFRET/smFRET.pdf), [Electronics](Electronics/qbio_UE_introduction_electronics.pdf), ... |Bungalow 16p |EM, LC |
-| 06/10/24  |16:00-17:00| CM : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC |
-| 10/10/24 | 09:00-11:00 | TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | Bungalow 16p | ALG |
-| 18/10/24 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | qBio | ALG      |
+| 04/10/24 | 14:00-16:00 | CM : [N&B](Number_and_brigthness/Number_and_brigthness.pdf) and [smFRET](smFRET/smFRET.pdf), [Electronics](Electronics/qbio_UE_introduction_electronics.pdf), ... |Bungalow 16p |EM, LC |
+| 04/10/24 |16:00-17:00| CM : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC |
+| 08/10/24 | 09:00-11:00 | TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | Bungalow 16p | ALG |
+| 16/10/24 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | CBS60-IPAM | ALG      |
 
 **<u>Homeworks</u>**: 
 
@@ -75,14 +75,14 @@ PEM : Pierre-Emmanuel Milhiet
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 25/10/24 |09:00-11:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p | ALG, EM |
-| 27/10/24 |14:00-16:00| TD : Troubleshooting| qBio room | ALG, EM,  |
-| 07/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
-| 08/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
-| 08/11/24 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio room | ALG, EM  |
-| 09/11/24 |09:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-Demo | qBio room | ALG, EM, LC, CD  |
-| 21/11/24 |TBD| Report debriefing | qBio room | ALG, EM, LC, CD |
-| 28/11/24 |TBD| Oral restitutions #1 | qBio room | ALG, EM, LC, CD |
+| 23/10/24 |09:00-11:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p | ALG, EM |
+| 15/10/24 |14:00-16:00| TD : Troubleshooting| qBio room | ALG, EM,  |
+| 05/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
+| 06/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
+| 06/11/24 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio room | ALG, EM  |
+| 07/11/24 |09:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-Demo | qBio room | ALG, EM, LC, CD  |
+| 19/11/24 |TBD| Report debriefing | qBio room | ALG, EM, LC, CD |
+| 05/12/24 |TBD| Oral restitutions #1 | qBio room | ALG, EM, LC, CD |
 
 **<u>Homeworks</u>**: 
 
@@ -94,23 +94,23 @@ PEM : Pierre-Emmanuel Milhiet
 * Written report guidelines:
   * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, conclusion + discussion
   * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
-  * Written report restitution deadline : **==TBD==**
+  * Written report restitution deadline : **==13/11/2024==**
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
-  * Oral restitution  : **==28/11/2024==**
+  * Oral restitution  : **==05/12/2024==**
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 
-Students will choose a technique among AFM and super-resolution microscopy to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. 
+Students will choose a technique among smFRET and super-resolution microscopy to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. 
 
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 30/11/24 |14:00-16:00| TD : Check exp design| CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 05/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #1 | CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 06/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #2 | CBS | JBF/CD, CC, RQ/LB, RD/CG |
-| 15/12/24 |TBD| Report debriefing | TBD | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
-| 20/12/24 |14:00-17:00| Oral restitutions #2 | Conference room | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
+| 28/11/24 |14:00-16:00| TD : Check exp design| TBD | JBF/CD, CC, RQ/LB, RD/CG |
+| 03/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #1 | TBD | JBF/CD, CC, RQ/LB, RD/CG |
+| 04/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #2 | TBD | JBF/CD, CC, RQ/LB, RD/CG |
+| 09/12/24 |TBD| Report debriefing | TBD | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
+| 18/12/24 |14:00-17:00| Oral restitutions #2 | TBD | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
 
 **<u>Homeworks</u>**:
 
@@ -118,10 +118,10 @@ Students will choose a technique among AFM and super-resolution microscopy to ru
 
 * Written report guidelines:
   * Students will prepare a written report in the format of a scientific article emphasizing the methodology and assuming it is an original technique unknown from the community.
-  * Written report restitution deadline : **==TBD==**
+  * Written report restitution deadline : **==11/12/2024==**
 
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
-  * Oral restitution  : **==20/12/2024==**
+  * Oral restitution  : **==18/12/2024==**
 
