@@ -8,7 +8,7 @@ Repository of the UE Imaging Biological Systems - qbio master curriculum - Unive
 
 ## OVERVIEW
 
-See [here](UE_short_overview/Intro_BioImaging_2024.pptx.pdf) for the slides introducing the UE.
+See [here](UE_short_overview/Intro_BioImaging.pdf) for the slides introducing the UE.
 
 The UE Imaging Biological Systems is organized around three sections with increasing levels of complexity:
 
