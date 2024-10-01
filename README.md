@@ -43,7 +43,7 @@ Here are some ressources that may be useful for the praticals of this UE:
 ## Organization
 
 **Instructors**:
-![](Instructors_trombinoscope/Intro_BioImaging_2022.pptx.png)
+![](Instructors_trombinoscope/Trombi_BioImaging_2024.png)
 ALG : Antoine Le Gall
 CC : Caroline Clerté
 CD : Christine Doucet
