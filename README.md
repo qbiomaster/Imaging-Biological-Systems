@@ -42,24 +42,25 @@ Here are some ressources that may be useful for the praticals of this UE:
 
 ## Organization
 
-**Instructors**:
+**Instructors**:  
+
 ![](Instructors_trombinoscope/Trombi_BioImaging_2024.png)
 
-\
+  
 
-\
+ALG : Antoine Le Gall  
+CC : Caroline Clerté  
+CD : Christine Doucet  
+CG : Cédric Godefroy  
+EM : Emmanuel Margeat  
+JBF : Jean-Bernard Fiche  
+LB: Léo Bonhomme  
+LC : Luca Costa  
+RD : Rémi Doré  
+RQ : Robert Quast  
+PEM : Pierre-Emmanuel Milhiet  
 
-ALG : Antoine Le Gall
-CC : Caroline Clerté
-CD : Christine Doucet
-CG : Cédric Godefroy
-EM : Emmanuel Margeat
-JBF : Jean-Bernard Fiche
-LB: Léo Bonhomme
-LC : Luca Costa
-RD : Rémi Doré
-RQ : Robert Quast
-PEM : Pierre-Emmanuel Milhiet
+  
 
 
 
