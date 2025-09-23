@@ -1,4 +1,4 @@
-# UE Imaging Biological Systems 2024-2025
+# UE Imaging Biological Systems 2025-2026
 
 Repository of the UE Imaging Biological Systems - qbio master curriculum - University of Montpellier
 
@@ -8,7 +8,7 @@ Repository of the UE Imaging Biological Systems - qbio master curriculum - Unive
 
 ## OVERVIEW
 
-See [here](UE_short_overview/Intro_BioImaging.pdf) for the slides introducing the UE.
+See [here](UE_short_overview/Intro_BioImaging_2025.pdf) for the slides introducing the UE.
 
 The UE Imaging Biological Systems is organized around three sections with increasing levels of complexity:
 
@@ -20,7 +20,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 | Sections | Hours | Evaluations | Teachers | Description |
 | ------------ |----| ------ | ------- | ----------- |
-| I. Basics | 5h CM + 4h TP = 9 hours** | None |         | Safety & Good practices |
+| I. Basics | 5h CM + 4h TP = **9 hours** | None |         | Safety & Good practices |
 | II. Build a setup | 4h TD + 12h TP = **16 hours** | Written report + oral restitution |         | TIRF/Confocal/AFM |
 | III. Practicals | 5h TD + ~2x5h TP = **15 hours** | Written report + oral restitution |         | SMLM/FCS/AFM |
 
@@ -44,7 +44,7 @@ Here are some ressources that may be useful for the praticals of this UE:
 
 **Instructors**:  
 
-![](Instructors_trombinoscope/Trombi_BioImaging_2024.png)
+![](Instructors_trombinoscope/Trombi_BioImaging_2025_2026.png)
 
   
 
@@ -52,26 +52,42 @@ ALG : Antoine Le Gall
 CC : Caroline Clerté  
 CD : Christine Doucet  
 CG : Cédric Godefroy  
+
+DG: David Guérin
+
+EC: Emilie Costes
+
 EM : Emmanuel Margeat  
 JBF : Jean-Bernard Fiche  
-LB: Léo Bonhomme  
-LC : Luca Costa  
-RD : Rémi Doré  
+
+MM: Malo Marmol
+
 RQ : Robert Quast  
-PEM : Pierre-Emmanuel Milhiet  
+
+SL: Simon Leturq
 
   
 
 
 
+### Section #0-InLab
+
+| Date     | Schedule    | Subject  | Location     | Instructors |
+| -------- | ----------- | -------- | ------------ | ----------- |
+| 29/09/25 | 14:00-16:00 | Inlab #1 | Bungalow 16p | CD          |
+| 01/10/25 | 10:00-12:00 | Inlab #1 | Bungalow 16p | CD/ALG      |
+| 01/10/25 | 14:00-16:00 | Inlab #1 | Bungalow 16p | ALG         |
+
+
 
 ### Section #1-Basics
+
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 04/10/24 | 14:00-16:00 | CM : [N&B](Number_and_brigthness/Number_and_brigthness.pdf) and [smFRET](smFRET/smFRET.pdf), [Electronics](Electronics/qbio_UE_introduction_electronics.pdf), ... |Bungalow 16p |EM, LC |
-| 04/10/24 |16:00-17:00| CM : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC |
-| 08/10/24 | 09:00-11:00 | TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | Bungalow 16p | ALG |
-| 16/10/24 |09:00-13:00| TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | CBS60-IPAM | ALG      |
+| 03/10/25 | 14:00-15:00 | CM : [Laser safety](/Intro_Laser_safety/Intro_Laser_safety.pdf) | Bungalow 16p | CC          |
+| 08/10/25 | 13:00-17:00 | TP : [Optics basics](Pratical_Optics_basics/TP_optics_basics.pdf) | CBS29        | ALG         |
+| 08/10/25 | 09:30-11:30 | TD : [Optics basics tutorials](Tutorials_Optics_basics/Tutorials_Optics_basics.pdf) | Bungalow 16p | ALG         |
+| 17/10/25 | 14:00-15:00 | CM : [N&B](Number_and_brigthness/Number_and_brigthness.pdf) and [smFRET](smFRET/smFRET.pdf) | Bungalow 16p | EM          |
 
 **<u>Homeworks</u>**: 
 
@@ -81,14 +97,14 @@ PEM : Pierre-Emmanuel Milhiet
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 23/10/24 |09:00-11:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p | ALG, EM |
-| 15/10/24 |14:00-16:00| TD : Troubleshooting| qBio room | ALG, EM,  |
-| 05/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
-| 06/11/24 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | qBio room | ALG, EM  |
-| 06/11/24 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | qBio room | ALG, EM  |
-| 07/11/24 |09:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-Demo | qBio room | ALG, EM, LC, CD  |
-| 19/11/24 |TBD| Report debriefing | qBio room | ALG, EM, LC, CD |
-| 05/12/24 |TBD| Oral restitutions #1 | qBio room | ALG, EM, LC, CD |
+| 17/10/25 |15:00-17:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p/ | ALG, EM, JBF |
+| 24/10/25 |14:00-16:00| TD : Troubleshooting| BYS room | ALG, EM, JBF |
+| 04/11/25 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | BYS room | ALG, EM, JBF |
+| 05/11/25 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | BYS room | ALG, EM, JBF |
+| 05/11/25 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | BYS room | ALG, EM, JBF |
+| 07/11/25 |09:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-Demo | BYS room | ALG, EM, LC, CD  |
+| 18/11/25 |TBD| Report debriefing | TBD | ALG, EM, LC, CD |
+| 26/11/25 |TBD| Oral restitutions #1 | CBS60-GS1 | ALG, EM, LC, CD |
 
 **<u>Homeworks</u>**: 
 
@@ -100,11 +116,11 @@ PEM : Pierre-Emmanuel Milhiet
 * Written report guidelines:
   * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, conclusion + discussion
   * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
-  * Written report restitution deadline : **==13/11/2024==**
+  * Written report restitution deadline : **==14/11/2025==**
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
-  * Oral restitution  : **==05/12/2024==**
+  * Oral restitution  : **==26/11/2025==**
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 
@@ -112,11 +128,11 @@ Students will choose a technique among smFRET and super-resolution microscopy to
 
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 28/11/24 |14:00-16:00| TD : Check exp design| TBD | JBF/CD, CC, RQ/LB, RD/CG |
-| 03/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #1 | TBD | JBF/CD, CC, RQ/LB, RD/CG |
-| 04/12/24 |10:00-17:00| TP : Sample preparation + Acquisition #2 | TBD | JBF/CD, CC, RQ/LB, RD/CG |
-| 09/12/24 |TBD| Report debriefing | TBD | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
-| 18/12/24 |14:00-17:00| Oral restitutions #2 | TBD | JBF, CD, ALG, CC, EM, RQ, LB, LC, CG, RD |
+| 28/11/25 |14:00-16:00| TD : Check exp design| Bungalow 12p / CBS60-PS0 / TBD | JBF/CD/EC, CG, RQ |
+| 03/12/25 |10:00-17:00| TP : Sample preparation + Acquisition #1 | TBD | JBF/CD/EC, CG, RQ |
+| 05/12/25 |10:00-17:00| TP : Sample preparation + Acquisition #2 | TBD | JBF/CD/EC, CG, RQ |
+| 16/12/25 |TBD| Report debriefing | TBD | JBF/CD/EC, CG, RQ |
+| 06/01/26 |14:00-17:00| Oral restitutions #2 | TBD | JBF, CD, ALG, CC, EM, RQ, LC, CG, RD |
 
 **<u>Homeworks</u>**:
 
@@ -124,10 +140,10 @@ Students will choose a technique among smFRET and super-resolution microscopy to
 
 * Written report guidelines:
   * Students will prepare a written report in the format of a scientific article emphasizing the methodology and assuming it is an original technique unknown from the community.
-  * Written report restitution deadline : **==11/12/2024==**
+  * Written report restitution deadline : **==12/12/2025==**
 
 * Oral restitutions guidelines:
   * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
   * 20 minutes of questions by the students and teachers.
-  * Oral restitution  : **==18/12/2024==**
+  * Oral restitution  : **==06/01/2026==**
 
