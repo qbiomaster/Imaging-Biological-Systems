@@ -108,13 +108,13 @@ SL: Simon Leturq
 
 **<u>Homeworks</u>**: 
 
-* Pick the setup you want to build among the [two setups](Build_your_setup/Build_your_setup.pdf) (2 students per setup for the confocal and 2 students for the TIRF)
-* During the "TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf)'' you will design the setup with the teacher, however it is highly recommended that you think about the design before the session.
+* Pick the setup you want to build among the [three setups](Build_your_setup/Build_your_setup.pdf) available this year (2 students per setup for the confocal and the optical tweezer and 3 students for the TIRF)
+* During the "TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf)'' you will design the setup with the teacher, however it is highly recommended that you think about the concept and the design before the session.
 * During the "TD : Troubleshooting" you will validate the last details of the design. You should have a well thought design BEFORE the session.
 * During the TP you will take notes and acquire data that you may need to process/analyse for the written report and the oral restitutions.
-* During the last practical session of 09/11/24 each group will present their setup (explain and guide the others to use their setup and run an acquisition) and give a demo to other students. Students will be encouraged to ask questions.
+* During the last practical session, everyone will present their setup (explain and guide the others to use their setup and run an acquisition) and give a demo to other students. Students will be encouraged to ask questions.
 * Written report guidelines:
-  * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, conclusion + discussion
+  * introduction of the technique, justify the design (with your calculations!), description of the building process + troubleshooting, proof of concept experiment, analysis, conclusion + discussion
   * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
   * Written report restitution deadline : **==14/11/2025==**
 * Oral restitutions guidelines:
@@ -124,7 +124,7 @@ SL: Simon Leturq
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 
-Students will choose a technique among smFRET and super-resolution microscopy to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. 
+Students will choose a technique among smFRET,  and super-resolution microscopy to run experiments. Students will be in charge of designing the experiment, prepare the samples, run the acquisition and perform analysis. 
 
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
