@@ -21,7 +21,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | Sections | Hours | Evaluations | Teachers | Description |
 | ------------ |----| ------ | ------- | ----------- |
 | I. Basics | 5h CM + 4h TP = **9 hours** | None |         | Safety & Good practices |
-| II. Build a setup | 4h TD + 12h TP = **16 hours** | Written report + oral restitution |         | TIRF/Confocal/AFM |
+| II. Build a setup | 4h TD + 12h TP = **16 hours** | Written report + oral restitution |         | TIRF/Confocal/Optical Tweezer |
 | III. Practicals | 5h TD + ~2x5h TP = **15 hours** | Written report + oral restitution |         | SMLM/FCS/AFM |
 
 ## Ressources
@@ -97,7 +97,7 @@ SL: Simon Leturq
 ### Section #2-Build a setup
 | Date | Schedule | Subject | Location | Instructors|
 | ------------ |----| ------ | ------- | ----------- |
-| 17/10/25 |15:00-17:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p/ | ALG, EM, JBF |
+| 17/10/25 |15:00-17:00| TD : Intro to [building your setup](Build_your_setup/Build_your_setup.pdf) | Bungalow 16p / 12p/ CBS60-PS0 | ALG, EM, JBF |
 | 24/10/25 |14:00-16:00| TD : Troubleshooting| BYS room | ALG, EM, JBF |
 | 04/11/25 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | BYS room | ALG, EM, JBF |
 | 05/11/25 |08:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf) | BYS room | ALG, EM, JBF |
