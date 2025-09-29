@@ -1,6 +1,14 @@
+# Data analysis
+
+Christine Doucet   
+
+doucet@cbs.cnrs.fr
+
+Report due : **10/10/25** as a pdf file, sent by email to the above address.
 
 
-## Aim of the InLab :
+
+## Aim of this course :
 
 ***Get the fundamental notions and tools to exploit, analyze and present the data you will get during the BioImaging practicals.***
 
