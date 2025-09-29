@@ -74,13 +74,11 @@ Differences Between **JPG** and **TIFF**
 
 
 
-[] find the most straightforward procedures to open them in Python, what is the structure of the output ?
+[] Open the **GFP.tif** file in Image J.
 
-- in ImageJ
+[] 
 
-- in Python
 
-  
 
 ## 3. Manipulation of stacks
 
