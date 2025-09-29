@@ -2,7 +2,7 @@
 
 Christine Doucet   
 
-doucet@cbs.cnrs.fr
+[doucet@cbs.cnrs.fr](mailto:doucet@cbs.cnrs.fr)
 
 Report due : **10/10/25** as a pdf file, sent by email to the above address.
 
@@ -55,11 +55,12 @@ To analyze the information within the image, we need to characterize a number of
 - PSF
 - what are the metadata ?
 
-You will find three image files in the Github repository
+You will find three image files in the Github repository  \InLab-Data-analysis\Data\
 
 - a widefield image of a calibration grid => measure the pixel size, in the sample plane, of a given setup.
-- a stack of images of a cell expressing nuclear pores fused to GFP. Channel = GFP, time stack = 100 frames.
+- a stack of images of a cell expressing nuclear pores fused to GFP. 
 - a stack of images of the same cell, acquired in DNA-PAINT (SMLM). Channel = cy3b, time stack = 2000 frames.
+- there are also 2 txt files, that contain the metada of the image files.
 
 
 
