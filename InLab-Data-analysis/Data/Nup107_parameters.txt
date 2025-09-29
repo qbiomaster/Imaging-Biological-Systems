@@ -1,0 +1,109 @@
+Time: 08-13-2025, 09:08:26
+Acquisition:
+- sample_name: HKNup107GFP_hypertonic_Nup107GFP_F3Cy3B500pM_1
+- number_frames: 20000
+- exposure_time_(s): 0.1
+- kinetic_time_(s): 0.125873
+- frame_transfer: false
+- gain: 200
+- sensor_temperature_setpoint_(°C): -58
+- filter: 600 +/- 64 nm
+- laser_lines:
+  - 561 nm
+- laser_power_(%):
+  - 20.0
+- number_z_planes:
+- distance_z_planes_(µm):
+- number_frames_per_z_plane:
+- roi_list_(xyz): []
+- roi_number:
+
+Camera:
+- brand: Andor
+- ref: DU-888U3
+- SN: X-9986
+- type: emCCD
+- specific_parameters:
+  - preamp_gain: 2.0
+  - vertical_shift_speed_(µs): 1.0
+  - vertical_clock: Normal
+  - output_amplifier: Electron Multiplying standard mode
+  - horizontal_readout_rate_(MHz): 30.0
+
+Microscope:
+- brand: Zeiss
+- type: AXIO-Observer
+
+Objective:
+- type: Aprochromat
+- brand: Zeiss
+- magnification: 100
+- NA: 1.46
+- immersion: oil
+
+Dichroic:
+- brand: Chroma
+- ref: zt405/488/561/640rpcv2-UF2
+
+Translation_stage:
+- brand: ASI
+- ref: MS2000
+- SN: 1104-20178-3291
+- axis: XY
+- LED_control: no
+
+PIFOC:
+- brand: PI
+- ref: E-625
+- SN: 110059675
+
+Light_sources:
+- Source_1:
+  - brand: OXXIUS
+  - part_number: ACX-CTRB-LBX
+  - type: diode
+  - SN: CON-03005
+  - wavelengths_(nm): 405
+  - power_(mW): 50
+  - use: fluo
+  - injection:
+
+- Source_2:
+  - brand: OXXIUS
+  - part_number: ACX-CTRB-LBX
+  - type: diode
+  - SN: CON-02420
+  - wavelengths_(nm): 488
+  - power_(mW): 40
+  - use: fluo
+  - injection:
+
+- Source_3:
+  - brand: Coherent
+  - part_number: Sapphire
+  - type: OPSL
+  - SN: LDP.1189089.C00166
+  - wavelengths_(nm): 561
+  - power_(mW): 100
+  - use: fluo
+  - injection:
+
+- Source_4:
+  - brand: Coherent
+  - part_number: OBIS-1185055
+  - type: diode
+  - SN: P08171105
+  - wavelengths_(nm): 640
+  - power_(mW): 100
+  - use: fluo
+  - injection:
+
+- Source_5:
+  - brand: Coherent
+  - part_number: OBIS-1185058
+  - type: diode
+  - SN: P04261101
+  - wavelengths_(nm): 785
+  - power_(mW): 100
+  - use: focus
+  - injection:

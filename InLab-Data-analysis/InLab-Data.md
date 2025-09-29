@@ -1,3 +1,5 @@
+
+
 ## Aim of the InLab :
 
 ***Get the fundamental notions and tools to exploit, analyze and present the data you will get during the BioImaging practicals.***
@@ -43,6 +45,7 @@ To analyze the information within the image, we need to characterize a number of
 
 - SNR
 - PSF
+- what are the metadata ?
 
 You will find three image files in the Github repository
 
@@ -56,52 +59,65 @@ You will find three image files in the Github repository
 
 - what is the structure of different types of images (tif, jpg) ?
 
-Differences Between **JPG** and **TIFF**
+Differences Between **JPG**, **PNG** and **TIFF**
 
-| Feature          | JPG                       | TIFF                                          |
-| ---------------- | ------------------------- | --------------------------------------------- |
-| **Compression**  | Lossy (some detail lost)  | Can be lossless (or even uncompressed)        |
-| **Bit depth**    | Usually 8-bit per channel | Can be 8, 16, 32-bit per channel              |
-| **Channels**     | Typically 3 (RGB)         | Can store grayscale, RGB, RGBA, multispectral |
-| **Pages/Frames** | Single image only         | Can store multiple images (multi-page TIFF)   |
-| **Use cases**    | Photography, web          | Scientific imaging, medical scans, archives   |
-| **File size**    | Small                     | Large                                         |
+| Feature            | **JPG (JPEG)**                             | **PNG**                                                 | **TIFF**                                     |
+| ------------------ | ------------------------------------------ | ------------------------------------------------------- | -------------------------------------------- |
+| **Compression**    | Lossy (details discarded for smaller size) | Lossless (no data loss)                                 | Lossless or uncompressed (supports both)     |
+| **File size**      | Smallest                                   | Larger than JPG, smaller than TIFF                      | Often very large                             |
+| **Bit depth**      | Typically 8-bit per channel                | 8-bit or 16-bit per channel                             | 8, 16, 32-bit per channel (flexible)         |
+| **Channels**       | RGB (3), sometimes grayscale               | Grayscale, RGB, RGBA (supports transparency)            | Grayscale, RGB, RGBA, multispectral          |
+| **Transparency**   | ❌ Not supported                            | ✅ Alpha channel supported                               | ✅ Can support alpha                          |
+| **Multi-page**     | ❌ Single image only                        | ❌ Single image only                                     | ✅ Can store multiple pages/frames            |
+| **Color profile**  | Commonly sRGB                              | Supports color profiles                                 | Supports ICC profiles, metadata-rich         |
+| **Best use cases** | Photography, web, social media             | Web graphics, icons, logos, images needing transparency | Scientific imaging, medical scans, archiving |
+| **Performance**    | Very fast to load and display              | Fast, but larger size than JPG                          | Slower, especially with very large file      |
+|                    |                                            |                                                         |                                              |
 
- **Summary**:
+<u>**Quick takeaways:**</u>
 
-- If you’re working with **normal images/photos**, JPG is fine => only use it to display images in a report for instance. If you want to extract quantitative data from your images, use TIFF format.
-- If you’re handling **scientific or high-fidelity images**, TIFF is preferred because it supports higher bit depth and lossless storage.
+- **JPG** → Best for **photos where size matters** (social media, websites, cameras).
+- **PNG** → Best for **graphics with sharp edges or transparency** (logos, icons, screenshots).
+- **TIFF** → Best for **scientific/archival quality** (medical imaging, remote sensing, publishing).
 
 
 
 [] Open the **GFP.tif** file in Image J.
 
-[] 
+[] Understand and describe the structure of the image.
+
+[] what is the file format ? the image type ? how many frames ? px size ? Where can you find this information ?
 
 
 
 ## 3. Manipulation of stacks
 
-- split stacks
-- concatenate stacks
-- z-project ⇒ max, min, average, sum, std
-- comment
+Using the **GFP.tif** image you just opened:
 
-In ImageJ, bonus : do it in Python
+[] split stack in two sub-stacks
+
+[] concatenate again the 2 sub-stacks
+
+[] z-project the stack ⇒ max, min, average, sum, std
+
+- What is the difference (conceptually)? 
+- Display the different results
+- Comment
+- If you want to analyze the intensity of GFP across pores, what type of projection should you use ?
 
 
 
-## 4. Measure pixel size
+## 4. Measure the pixel size
 
-- [x]  find an image of a calibration grid + information
+What do we need to measure the pixel size from a microscopy system ?
 
-What do we need to measure pixel size from a microscopy system ?
+[] Open the **pixel_size_10um.tif** file. What is it ? How can you use it to measure the pixel size of the setup taht was used to acquire this image ?
 
-- measure px size from a calibration grid image
+[] measure the px size from the calibration grid image
 
-  - use the line tool in ImageJ
-  - trace a line profile, measure from two peaks
-  - calculate the px size
+- use the line tool in ImageJ
+- trace a line profile, measure from two peaks
+- calculate the px size
 
 - calculate the size of the FOV
 
@@ -111,24 +127,37 @@ What do we need to measure pixel size from a microscopy system ?
 
 What is SNR ? [video](https://www.google.com/search?q=signal+to+noise+ratio+fluorescence+microscopy&sca_esv=8482df87b229566e&sxsrf=AE3TifNCifrLtNLhK0aGvF9-saanBtyTUg%3A1758528109698&ei=bQLRaNWzKof6nsEP34qJsA4&oq=signal+to+noise+ratio+fluorescence+&gs_lp=Egxnd3Mtd2l6LXNlcnAiI3NpZ25hbCB0byBub2lzZSByYXRpbyBmbHVvcmVzY2VuY2UgKgIIATIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMggQABiABBiiBDIFEAAY7wUyBRAAGO8FMgUQABjvBTIIEAAYgAQYogRIgA9QfVh9cAF4AJABAJgBYqABqQGqAQEyuAEDyAEA-AEBmAICoAJzwgIKEAAYsAMY1gQYR5gDAIgGAZAGBpIHAzEuMaAH_QmyBwMwLjG4B2rCBwUyLTEuMcgHDg&sclient=gws-wiz-serp#fpstate=ive&vld=cid:00690878,vid:mGPJBNsq7bA,st:0)
 
+[] what is SNR ? How would you calculate it ?
+
+Using what you have done before:
+
+[] Measure the SNR from the **GFP.tif** file. Explain how you proceed.
+
+[] Repeat this measurement from the Average projection.
+
+[] Comment on the relevance of these two measurements.
 
 
-## 6. Measure PSF
 
-Use the stack of SMLM.
+## 6. Measure the PSF of a microscope
 
-- what is a PSF ?
+[] what is a PSF ? How is it usually approximated ? Consequently, what characteristic measurement will you use to describe the PSF ?
+
+[] Open the **Nup107.tif** file. What do you see ? 
+
+[] From this file, how can you measure the PSF of the microscope ? Justify and explain how you will proceed. 
+
+[] Measure the PSF from at least ten single molecules. Plot the results.
 
 
 
+*Bonus*: here, writing a script in Python will allow you to analyze the 2000 frames, detect all the single molecules from the entire stack, fit them with Gaussians and extract the sigma. => you will get a more precise description of your PSF. 
 
 
-*Bonus*: here, writing a script in Python will allow you to analyze the 2000 frames, detect all the single molecules from the entire stack, fit them with Gaussians and extract the sigma. => you will get a more precise description of your PSF.
 
 ## 7. A few words on other types of data (1D)
 
-- [ ]  find FCS curves (1 and 2 components)
-- [ ]
+
 
 
 
