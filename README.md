@@ -104,7 +104,7 @@ SL: Simon Leturq
 | 05/11/25 |14:00-18:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-acquisition | BYS room | ALG, EM, JBF |
 | 07/11/25 |09:00-12:00| TP : [Building your setup](Build_your_setup/Build_your_setup.pdf)-Demo | BYS room | ALG, EM, LC, CD  |
 | 18/11/25 |TBD| Report debriefing | TBD | ALG, EM, LC, CD |
-| 26/11/25 |TBD| Oral restitutions #1 | CBS60-GS1 | ALG, EM, LC, CD |
+| 26/11/25 |14:00-17:00| Oral restitutions #1 | CBS60-GS1 | ALG, EM, LC, CD |
 
 **<u>Homeworks</u>**: 
 
@@ -118,8 +118,8 @@ SL: Simon Leturq
   * It is strongly advised that you start writing the report as soon as you start reflecting on the setup design!
   * Written report restitution deadline : **==14/11/2025==**
 * Oral restitutions guidelines:
-  * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome
-  * 20 minutes of questions by the students and teachers.
+  * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome.
+  * 20 minutes of questions by the students and teachers. Students are encouraged to give positive and constructive feedbacks on presentations and to ask questions.
   * Oral restitution  : **==26/11/2025==**
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
@@ -132,7 +132,7 @@ Students will choose a technique among smFRET,  and super-resolution microscopy 
 | 03/12/25 |10:00-17:00| TP : Sample preparation + Acquisition #1 | TBD | JBF/CD/EC, CG, RQ |
 | 05/12/25 |10:00-17:00| TP : Sample preparation + Acquisition #2 | TBD | JBF/CD/EC, CG, RQ |
 | 16/12/25 |TBD| Report debriefing | TBD | JBF/CD/EC, CG, RQ |
-| 06/01/26 |14:00-17:00| Oral restitutions #2 | TBD | JBF, CD, ALG, CC, EM, RQ, LC, CG, RD |
+| 06/01/26 |14:00-17:00| Oral restitutions #2 | CBS60-GS1 | JBF, CD, ALG, CC, EM, RQ, LC, CG, RD |
 
 **<u>Homeworks</u>**:
 
