@@ -2,9 +2,9 @@
 
 Christine Doucet   
 
-[doucet@cbs.cnrs.fr](mailto:doucet@cbs.cnrs.fr)
+[christine.doucet@cnrs.fr](mailto:christine.doucet@cnrs.fr)
 
-Report due : **10/10/25** as a pdf file, sent by email to the above address.
+Report due : **09/10/26** as a pdf file, sent by email to the above address.
 
 
 
@@ -43,7 +43,7 @@ Report due : **10/10/25** as a pdf file, sent by email to the above address.
 
 ## 1. What is an image ?
 
-A matrix, with each cell of the matrix (= pixel) that contains a quantitative information (height, intensity, nb of photons…)
+A matrix, with each cell of the matrix (= pixel) that contains a quantitative information (height, intensity, nb of photons,liftime…)
 
 To analyze the information within the image, we need to characterize a number of parameters inherent to the images / microscope:
 
@@ -55,7 +55,7 @@ To analyze the information within the image, we need to characterize a number of
 - PSF
 - what are the metadata ?
 
-You will find three image files in the Github repository  \InLab-Data-analysis\Data\
+You will find three image files in the Google drive repository  https://docs.google.com/spreadsheets/d/19_Bwkybd86P7nmEwTfxF5rR5eIAWM7aKF2rCw9KM3gg/edit?gid=0#gid=0
 
 - a widefield image of a calibration grid => measure the pixel size, in the sample plane, of a given setup.
 - a stack of images of a cell expressing nuclear pores fused to GFP. 
@@ -120,7 +120,7 @@ Using the **GFP.tif** image you just opened:
 
 What do we need to measure the pixel size from a microscopy system ?
 
-[] Open the **pixel_size_10um.tif** file. What is it ? How can you use it to measure the pixel size of the setup taht was used to acquire this image ?
+[] Open the **pixel_size_10um.tif** file. What is it ? How can you use it to measure the pixel size of the setup that was used to acquire this image ?
 
 [] measure the px size from the calibration grid image
 
