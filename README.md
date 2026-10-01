@@ -24,14 +24,12 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | II. Build a setup | Design and troubleshooting, followed by 12 hours of practicals; four projects available | Individual assessment during practicals and oral discussions; a final multiple-choice quiz is under consideration |
 | III. Advanced microscopy | Experimental design, followed by 12 hours of sample preparation, imaging and analysis; four projects available | Written report + oral restitution in groups |
 
-The overview above uses the teaching hours announced in the introductory presentation. The schedule below follows the [shared 2026-2027 calendar, S1 tab](https://docs.google.com/spreadsheets/d/19_Bwkybd86P7nmEwTfxF5rR5eIAWM7aKF2rCw9KM3gg/edit?usp=sharing). Total teaching hours remain to be confirmed: the Build your setup timetable currently includes 14 hours of practicals and demonstrations, compared with the 12 hours announced in the introduction.
-
 ## Report and presentation guidelines
 
 **Read the relevant guidelines before preparing your report or oral presentation:**
 
 - [Written report guidelines](Guidelines/qBio_reports_guidelines.md): for advanced microscopy only. No written report is required for BYS in 2026-2027.
-- [Oral presentation guidelines](Guidelines/qBio_presentations_guidelines.md): separate sections cover advanced microscopy and BYS. For BYS, the individual assessment described below applies this year. Advanced microscopy presentations last 12 minutes per pair or 15 minutes for groups of three.
+- [Oral presentation guidelines](Guidelines/qBio_presentations_guidelines.md): separate sections cover advanced microscopy and BYS. For BYS, students are assessed individually on their interactions during practical sessions, their answers to instructors’ questions, and the questions they ask other groups during oral presentations. Advanced microscopy presentations last 12 minutes per pair or 15 minutes for groups of three.
 
 ## Ressources
 
@@ -42,10 +40,10 @@ Here are some ressources that may be useful for the praticals of this UE:
 - [Basics in electronics](Ressources/Electronics/qbio_UE_introduction_electronics.pdf) 
 - [Basics in AFM](Ressources/AFM/qbio_UE_introduction_AFM.pdf) 
 - [Single Particle Tracking](Ressources/Tracking/20201202_Microscopies_avancées_Single_Particle_Tracking.pdf) 
-- Super resolution microscopy - [SMLM](Ressources/Super_resolution_methods/20201021_part1.pdf), [SIM overview (from page 35)](Ressources/Super_resolution_methods/20201021_part1.pdf#page=35) and [STED](Ressources/Super_resolution_methods/20181014_part2.pdf)
+- Super resolution microscopy - [SMLM](Ressources/Super_resolution_methods/20201021_part1.pdf), [SIM](Ressources/Super_resolution_methods/20181014%20-%20part3.pdf) and [STED](Ressources/Super_resolution_methods/20181014_part2.pdf)
 - [Single-molecule FRET](Ressources/Fluorescence/fret.pdf)
 - [Fluorescence fluctuations](Ressources/Fluorescence/fcs.pdf)
-- [N&B (from page 37 of the fluctuation microscopy course)](Ressources/Fluorescence/fcs.pdf#page=37)
+- [N&B](Ressources/Fluorescence/fcs.pdf)
 
 
 
@@ -67,8 +65,6 @@ Here are some ressources that may be useful for the praticals of this UE:
 - RQ: Robert Quast
 - SL: Simon Leturq
 
-Dates and explicitly stated times below come from the shared 2026-2027 calendar (S1 tab). Missing or ambiguous times and instructor assignments remain to be confirmed. Advanced microscopy sessions may be adjusted by the supervisors to accommodate sample preparation.
-
 ### InLab — materials from a separate UE
 
 InLab is a separate UE in which Christine Doucet and Antoine Le Gall teach. Its materials are hosted in this repository to keep the teaching resources in one place.
@@ -80,6 +76,8 @@ InLab is a separate UE in which Christine Doucet and Antoine Le Gall teach. Its 
 Please refer to the calendar of the InLab UE for its schedule.
 
 ### Section #1-Basics
+
+The dates and times below are extracted from the [shared 2026-2027 calendar, S1 tab](https://docs.google.com/spreadsheets/d/19_Bwkybd86P7nmEwTfxF5rR5eIAWM7aKF2rCw9KM3gg/edit?usp=sharing). **The shared calendar is the authoritative reference and takes precedence over this README.**
 
 | Date | Schedule | Subject | Location | Instructors |
 | ---- | -------- | ------- | -------- | ----------- |
