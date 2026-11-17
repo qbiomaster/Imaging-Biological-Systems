@@ -21,7 +21,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | Sections | Activities | Evaluations |
 | -------- | ---------- | ----------- |
 | I. Basics | Laser safety and good practice, optics practicals, and 3 hours of seminars on optical microscopy, smFRET and N&B | None |
-| II. Build a setup | Design and troubleshooting, followed by 12 hours of practicals; four projects available | Individual assessment during practicals and oral discussions; a final multiple-choice quiz is under consideration |
+| II. Build a setup | Design and troubleshooting, followed by 12 hours of practicals; four projects available | Individual assessment during practicals and oral discussions + 45-minute MCQ |
 | III. Advanced microscopy | Experimental design, followed by 12 hours of sample preparation, imaging and analysis; four projects available | Written report + oral restitution in groups |
 
 ## Report and presentation guidelines
@@ -29,7 +29,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 **Read the relevant guidelines before preparing your report or oral presentation:**
 
 - [Written report guidelines](Guidelines/qBio_reports_guidelines.md): for advanced microscopy only. No written report is required for BYS in 2026-2027.
-- [Oral presentation guidelines](Guidelines/qBio_presentations_guidelines.md): separate sections cover advanced microscopy and BYS. For BYS, students are assessed individually on their interactions during practical sessions, their answers to instructors’ questions, and the questions they ask other groups during oral presentations. Advanced microscopy presentations last 12 minutes per pair or 15 minutes for groups of three.
+- [Oral presentation and BYS MCQ guidelines](Guidelines/qBio_presentations_guidelines.md): separate sections cover advanced microscopy and BYS. For BYS, students are assessed individually on their interactions during practical sessions, their answers to instructors’ questions, and the questions they ask other groups during oral presentations. Advanced microscopy presentations last 12 minutes per pair or 15 minutes for groups of three.
 
 ## Ressources
 
@@ -101,7 +101,8 @@ The dates and times below are extracted from the [shared 2026-2027 calendar, S1 
 | 04/11/26 | 08:00–12:00 | TP: Building your setup | Rooms booked; details to be confirmed | To be confirmed |
 | 04/11/26 | 14:00–17:00 | TP: Building your setup | Rooms booked; details to be confirmed | To be confirmed |
 | 06/11/26 | 09:00–12:00 | TP: Acquisition and setup demonstrations | Rooms booked; details to be confirmed | To be confirmed |
-| 25/11/26 | To be confirmed | Oral restitutions #1 | CBS60 — GS1 | To be confirmed |
+| 23/11/26 | From 13:00 | Oral restitutions #1 | CBS60 — GS0 | To be confirmed |
+| 23/11/26 | After the BYS oral presentations (45 minutes) | BYS MCQ | CBS60 — GS0 | To be confirmed |
 
 
 **<u>Homeworks</u>**: 
@@ -120,12 +121,12 @@ The dates and times below are extracted from the [shared 2026-2027 calendar, S1 
 * Assessment is individual, including when working or presenting in groups. No written report is required for Build your setup.
   * Assessment will focus on each student's interactions during the practical sessions and oral presentations.
   * During oral discussions, both your answers to the instructors' questions and the questions you ask other groups will contribute to your assessment.
-  * A final multiple-choice quiz is under consideration; its inclusion and format remain to be confirmed.
+  * An individual **45-minute MCQ** will take place after the BYS oral presentations: **30 questions, one correct answer per question, no calculator**. It covers the introductory lectures, optics practicals and BYS sessions; **Advanced Microscopy is excluded**. Read [BYS MCQ — what to expect](Guidelines/qBio_presentations_guidelines.md#bys-mcq).
 * Oral restitutions guidelines:
   * Read the **BYS practicals** section of the [oral presentation guidelines](Guidelines/qBio_presentations_guidelines.md) before preparing your slides.
-  * 10 minutes (12 minutes for the trinome) of presentation by each binome/trinome.
-  * 20 minutes of questions by the students and teachers. Students are encouraged to give positive and constructive feedbacks on presentations and to ask questions.
-  * Oral restitution : **25/11/2026**
+  * 10 minutes (15 minutes for the trinome) of presentation by each binome/trinome.
+  * 20 minutes of questions and discussions. All students are expected to participate actively by providing constructive feedback and asking questions.
+  * Oral restitution : **Monday 23/11/2026, from 13:00, CBS60 — GS0**.
 
 ### Section #3-[Advanced practicals](Practicals_Advanced_microscopy/Practicals_Advanced_microscopy.pdf)
 
